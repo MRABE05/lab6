@@ -1,0 +1,10 @@
+OPS445 Lab Report - System Information for running ./CheckLab6.py
+=================================================================
+    User login name: mrabe
+    Linux system name: MaThereseRabeC
+    Python executable: /usr/bin/python3
+    Python version: 31012
+    OS Platform: linux
+    Working Directory: /home/mrabe/ops445/lab6/lab6
+    Start at: Thu Nov 14 23:17:23 2024
+=================================================================
